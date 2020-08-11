@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://tools4cydia-ipa.host/view.php?app=334</string>
+					<string>https://ia801506.us.archive.org/10/items/pubgm-0.19.0-2020-08-01-1886/PUBGM-0.19.0-2020-08-01-1886.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,22 +29,21 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.cydia97.Afstore</string>
+				<string>com.tencent.ig</string>
 				<key>bundle-version</key>
-				<string>3.0</string>
+				<string>0.19.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>
-					
-⚡PUBGM Global v0.19 JokerHack⚙️⚡
+⚡PUBGM Global v0.19.0⚙️⚡
  
-💘RashidFarhad Store💘
+RashidFarhad Store📦
 
-Twitter: @RashidFarhad 🖤
-Telegram: @RashidFarhad ❤️
-					
-				</string>
+SnapChat: r4sh1d3 💙
+Instagram: x_9xxz 🖤
+Telegram:RashidFarhad ❤️
+     			</string>
 			</dict>
 		</dict>
 	</array>
